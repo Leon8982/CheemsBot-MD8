@@ -33,8 +33,8 @@ global.botname = "DASA<3"
 global.ownernumber = '918982860407'
 global.ownername = 'LEONGAMER'
 global.ownerNumber = ["918982860407@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
+global.ownerweb = "https://youtube.com/@leongaming9542?si=I9l-LiFLPARBA5V8"
+global.websitex = "https://github.com/dashboard"
 global.wagc = "your group link"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
