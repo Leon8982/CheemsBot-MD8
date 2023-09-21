@@ -21,27 +21,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918982860407'] //ur owner number
-global.ownernomer = "918982860407" //ur owner number2
-global.ownername = "LEONGAMER" //ur owner name
+global.owner = ['919365354223'] //ur owner number
+global.ownernomer = "919365354223" //ur owner number2
+global.ownername = "krixtom" //ur owner name
 global.ytname = "YT: LEON" //ur yt chanel name
 global.socialm = "GitHub: leon 8982" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
-
 //new
-global.botname = "DASA<3"
-global.ownernumber = '918982860407'
-global.ownername = 'LEONGAMER'
-global.ownerNumber = ["918982860407@s.whatsapp.net"]
+global.botname = "krixu"
+global.ownernumber = '919365354223'
+global.ownername = 'krixtom'
+global.ownerNumber = ["919365354223@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@leongaming9542?si=I9l-LiFLPARBA5V8"
 global.websitex = "https://github.com/dashboard"
 global.wagc = "your group link"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "Sticker By LEON"
-global.author = "LEONGAMER\n\n"
-global.creator = "918982860407@s.whatsapp.net"
+global.packname = "Sticker By krixtom"
+global.author = "krixtom\n\n"
+global.creator = "919365354223@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
