@@ -21,17 +21,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['919365354223'] //ur owner number
-global.ownernomer = "919365354223" //ur owner number2
+global.owner = ['919101038920'] //ur owner number
+global.ownernomer = "919101038920" //ur owner number2
 global.ownername = "krixtom" //ur owner name
 global.ytname = "YT: LEON" //ur yt chanel name
 global.socialm = "GitHub: leon 8982" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 //new
 global.botname = "krixu"
-global.ownernumber = '919365354223'
+global.ownernumber = '919101038920'
 global.ownername = 'krixtom'
-global.ownerNumber = ["919365354223@s.whatsapp.net"]
+global.ownerNumber = ["919101038920@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@leongaming9542?si=I9l-LiFLPARBA5V8"
 global.websitex = "https://github.com/dashboard"
 global.wagc = "your group link"
@@ -40,7 +40,7 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By krixtom"
 global.author = "krixtom\n\n"
-global.creator = "919365354223@s.whatsapp.net"
+global.creator = "919101038920@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
